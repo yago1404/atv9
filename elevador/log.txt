@@ -1,0 +1,143 @@
+O elevador esta no 1º andar
+
+Sem destinos no momento
+entre com o andar de destino ou 0 para pular
+==>6
+
+############################################################
+
+
+O elevador esta no 2º andar
+
+Proximo andar: 6
+entre com o andar de destino ou 0 para pular
+==>5
+
+############################################################
+
+
+O elevador esta no 3º andar
+
+Proximo andar: 5
+entre com o andar de destino ou 0 para pular
+==>3
+
+############################################################
+
+##############
+portas abertas
+###############
+
+O elevador esta no 3º andar
+
+Proximo andar: 5
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 4º andar
+
+Proximo andar: 5
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 5º andar
+
+##############
+portas abertas
+###############
+
+
+Proximo andar: 6
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 6º andar
+
+##############
+portas abertas
+###############
+
+
+Sem destinos no momento
+entre com o andar de destino ou 0 para pular
+==>1
+
+############################################################
+
+
+O elevador esta no 5º andar
+
+Proximo andar: 1
+entre com o andar de destino ou 0 para pular
+==>3
+
+############################################################
+
+
+O elevador esta no 4º andar
+
+Proximo andar: 3
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 3º andar
+
+##############
+portas abertas
+###############
+
+
+Proximo andar: 1
+entre com o andar de destino ou 0 para pular
+==>3
+
+############################################################
+
+##############
+portas abertas
+###############
+
+O elevador esta no 3º andar
+
+Proximo andar: 1
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 2º andar
+
+Proximo andar: 1
+entre com o andar de destino ou 0 para pular
+==>0
+
+############################################################
+
+
+O elevador esta no 1º andar
+
+##############
+portas abertas
+###############
+
+
+Sem destinos no momento
+entre com o andar de destino ou 0 para pular
+==>0
+
+############
+Nenhum andar para ir, encerrando sistema
+###############
