@@ -1,0 +1,15 @@
+
+
+------------ Sistema especialista Dinossauro ------------ 
+
+
+Responda com s(sim) ou n(não)
+
+
+Seu dino é herbívoro?        
+s
+Possui algum adorno na face?
+n
+É grande?
+s
+Seu dinossauro é o diplodocus
